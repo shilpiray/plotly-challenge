@@ -13,6 +13,8 @@ Used Plotly.js to build an interactive charts for the dashboard.
   
   Updated all of the plots any time that a new sample is selected.
   
+  ![picture](C:\Users\User\Downloads\newplot.png)
+  
   
  ## Step 2 - Heroku
  
